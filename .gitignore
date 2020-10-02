@@ -94,4 +94,4 @@ appsettings.json
 local.settings.json
 
 # IDE
-.vscode
+.vscode/*
